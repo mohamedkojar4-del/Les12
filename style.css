@@ -1,0 +1,66 @@
+header {
+    background-color: bisque;
+    height: 200px;
+    width: 100%;
+}
+.th {
+    background-color: #2e8b57;
+    color: #000000;
+    width: 20%;
+    height: 50px;
+}
+.th2 {
+    background-color: blanchedalmond;
+
+}
+.th3 {
+    background-color: #000000;
+    width: 50%;
+    color: aliceblue;
+}
+.th4 {
+    background-color: beige;
+}
+.td {
+    background-color: violet;
+    color: white;
+}
+.td2 {
+    background-color: antiquewhite;
+}
+.td3 {
+    background-color: lavender;
+    color: aliceblue;
+}
+.td4 {
+    background-color: khaki;
+}
+.d {
+    background-color: #ccb000;
+}
+.d2 {
+    background-color: #af0000;
+}
+.d3 {
+    background-color: rgba(red, green, blue, alpha);
+}
+.d4 {
+    background-color: rgb(100, 0, 50);
+}
+.t {
+    background-color: #00af4972;
+}
+.t2 {
+    background-color: rgb(55, 13, 171);
+}
+.t3 {
+    background-color: rgb(46, 237, 7);
+} 
+.t4 {
+background-color: rgb(128, 0, 255);
+}
+footer {
+    background-color: rgb(24, 229, 1);
+    height: 200px;
+    width: 100%;
+}
